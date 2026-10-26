@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVF8ORawnGY=",
+  "success": true,
+  "projectFilePath": "/Users/arjunbojja/Documents/ai-engineering-from-scratch/ai-engineering-from-scratch/phases/13-tools-and-protocols/43-bytecode-and-managed-formats/code/fixtures/dotnet/MetaDump/MetaDump.csproj",
+  "expectedPackageFiles": [
+    "/Users/arjunbojja/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/arjunbojja/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/arjunbojja/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.25/microsoft.netcore.app.host.osx-arm64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
